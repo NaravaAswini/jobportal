@@ -1,0 +1,235 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Python Developer",
+      "company": "TCS",
+      "location": "Hyderabad",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4 - 6 LPA",
+      "experience": "Fresher",
+      "description": "We are looking for a Python Developer to develop and maintain scalable applications.",
+      "skills": [
+        "Python",
+        "Django",
+        "SQL",
+        "REST API",
+        "Git"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-08-25"
+    },
+    {
+      "id": "2",
+      "title": "Frontend Developer",
+      "company": "Infosys",
+      "location": "Bangalore",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4 - 7 LPA",
+      "experience": "Fresher",
+      "description": "Build responsive and user-friendly web applications using modern frontend technologies.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-08-27"
+    },
+    {
+      "id": "3",
+      "title": "React Developer",
+      "company": "Wipro",
+      "location": "Chennai",
+      "jobType": "Full Time",
+      "workMode": "On-site",
+      "salary": "4 - 8 LPA",
+      "experience": "0 - 1 Years",
+      "description": "Develop modern React applications and reusable UI components.",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "REST API"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-08-28"
+    },
+    {
+      "id": "4",
+      "title": "Java Developer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4.5 - 8 LPA",
+      "experience": "Fresher",
+      "description": "Work on enterprise applications using Java and Spring Boot.",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST API",
+        "Git"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-08-29"
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "company": "Cognizant",
+      "location": "Pune",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "5 - 9 LPA",
+      "experience": "0 - 2 Years",
+      "description": "Develop full-stack web applications using React and Node.js.",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-08-30"
+    },
+    {
+      "id": "6",
+      "title": "QA Automation Engineer",
+      "company": "Deloitte",
+      "location": "Bangalore",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4 - 7 LPA",
+      "experience": "Fresher",
+      "description": "Create and execute automated test cases for web and API applications.",
+      "skills": [
+        "Python",
+        "Selenium",
+        "API Testing",
+        "SQL",
+        "Git"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-09-01"
+    },
+    {
+      "id": "7",
+      "title": "Data Analyst",
+      "company": "Genpact",
+      "location": "Hyderabad",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4 - 7 LPA",
+      "experience": "Fresher",
+      "description": "Analyze business data and create reports and dashboards for decision making.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Pandas"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-09-02"
+    },
+    {
+      "id": "8",
+      "title": "Backend Developer",
+      "company": "Tech Mahindra",
+      "location": "Pune",
+      "jobType": "Full Time",
+      "workMode": "On-site",
+      "salary": "4 - 7 LPA",
+      "experience": "Fresher",
+      "description": "Develop backend services and REST APIs for enterprise applications.",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API",
+        "JavaScript"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-09-03"
+    },
+    {
+      "id": "9",
+      "title": "Python Full Stack Developer",
+      "company": "HCLTech",
+      "location": "Noida",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "4 - 8 LPA",
+      "experience": "0 - 2 Years",
+      "description": "Build web applications using Python, Flask, React and SQL.",
+      "skills": [
+        "Python",
+        "Flask",
+        "React",
+        "SQL",
+        "REST API"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-09-04"
+    },
+    {
+      "id": "10",
+      "title": "Software Engineer",
+      "company": "IBM",
+      "location": "Bangalore",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "salary": "5 - 10 LPA",
+      "experience": "Fresher",
+      "description": "Design, develop and test software applications using modern programming technologies.",
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Git",
+        "REST API"
+      ],
+      "education": "B.Tech / MCA",
+      "postedDate": "2026-09-05"
+    }
+  ],
+  "users": [
+    {
+      "name": "Aswini",
+      "email": "aswininarava@gmail.com",
+      "password": "Aswini@123",
+      "role": "jobseeker",
+      "id": 1
+    },
+    {
+      "name": "Aswini",
+      "email": "aswininarava2@gmail.com",
+      "password": "Aswini@123",
+      "role": "jobseeker",
+      "id": 2
+    },
+    {
+      "name": "Aswini",
+      "email": "aswininarava3@gmail.com",
+      "password": "Aswini@123",
+      "role": "recruiter",
+      "id": 3
+    },
+    {
+      "name": "Gowtham",
+      "email": "aswininarava22@gmail.com",
+      "password": "Aswini@123",
+      "role": "recruiter",
+      "id": 4
+    }
+  ],
+  "applications": []
+}
